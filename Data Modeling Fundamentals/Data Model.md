@@ -9,3 +9,23 @@
 2. OLAP
    - Focuses on analysis at high speeds on large volumes of data
    - Supports business decision making
+# Types of Data Models
+1. Conceptual Data Model
+   - A high-level perspective business concepts and the relationship between them
+   - Nontechnical
+   - Objective is to provide current and future state of data concept for the organization
+     
+     <img width="417" alt="Screenshot 2025-02-09 at 12 08 09 am" src="https://github.com/user-attachments/assets/c1dd72fa-450f-4de3-9ab1-3fd386751bf5" />
+
+2. Logical Data Model
+   - Transitions business concepts into data entities
+   - Database agnostics
+
+     <img width="475" alt="Screenshot 2025-02-09 at 12 09 21 am" src="https://github.com/user-attachments/assets/c038dea3-e7be-409d-8ad7-2f6b261a6393" />
+
+3. Physical Data Model
+   - DB specific design that represents the data objects and their relationships
+   - Generate DDL code that would be deployed to a database platform
+
+     <img width="497" alt="Screenshot 2025-02-09 at 12 11 55 am" src="https://github.com/user-attachments/assets/5270f3b1-4121-45e8-b101-4bb702e0eefb" />
+
