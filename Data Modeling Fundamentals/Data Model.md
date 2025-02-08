@@ -29,3 +29,10 @@
 
      <img width="497" alt="Screenshot 2025-02-09 at 12 11 55 am" src="https://github.com/user-attachments/assets/5270f3b1-4121-45e8-b101-4bb702e0eefb" />
 
+# Basic Components of a Data Model
+1. Entity (Logical) / Table (Physical)
+   - A singular representation of a distinguishable thing, event or state
+2. Attribute (Logical) / Column (Physical)
+   - Individual piece of information for eact entity or table
+3. Relationships
+   - Connects two entities or tables
