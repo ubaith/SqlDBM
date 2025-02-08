@@ -36,3 +36,19 @@
    - Individual piece of information for eact entity or table
 3. Relationships
    - Connects two entities or tables
+# Basic Relationship Notation
+1. one to one
+2. one to many
+3. many to many
+# Modeling Standards
+1. Naming standards
+   - Entity/Table
+     * singular form
+     * describing a single instance of the entity
+   - Attribute/Column
+     * a noun phrase
+2. Data Type and Domain standard
+3. Metadata Standard
+   - Created Timestamp
+   - Last Modified Timestamp
+   - Created By
